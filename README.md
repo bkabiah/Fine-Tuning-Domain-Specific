@@ -17,6 +17,27 @@ Anstatt ein generisches Modell zu nutzen, wird ein kleines, effizientes Open-Sou
 | **Evaluation** | `RAGAS` | Metriken: *Faithfulness* (Vermeidung von Halluzinationen), *Answer Relevancy* |
 | **Framework** | `PyTorch`, `Transformers` | Kern-Deep-Learning-Stack |
 
+## 🏗️ Systemarchitektur
+
+```mermaid
+graph TD
+    A[Synthetischer E-Commerce Datensatz] -->|JSON| B(Hugging Face Dataset)
+    B -->|QLoRA 4-bit| C[Base Model: Qwen 1.5B]
+    C -->|SFTTrainer| D[(Fine-Tuned Adapter)]
+    
+    E[Kundenfrage] -->|Embedding| F{FAISS Vector Store}
+    F -->|Top-1 Kontext| G[Prompt Template]
+    D -->|Inference| G
+    G -->|Generierte Antwort| H[Endnutzer]
+    
+    H -.->|Evaluation| I[RAGAS Framework]
+    I -->|Metriken| J[Faithfulness & Answer Relevancy]
+    
+    style C fill:#2d2d2d,stroke:#00ff00,stroke-width:2px,color:#fff
+    style D fill:#2d2d2d,stroke:#00ff00,stroke-width:2px,color:#fff
+    style I fill:#2d2d2d,stroke:#ff00ff,stroke-width:2px,color:#fff
+```
+
 ## 📊 Evaluation Metrics & Learnings
 Die Qualität des fine-getunten RAG-Systems wird anhand folgender Metriken gemessen:
 1. **Faithfulness:** Misst, ob die generierte Antwort faktisch aus dem abgerufenen Produktkontext stammt.
