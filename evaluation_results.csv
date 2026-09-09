@@ -1,0 +1,3 @@
+user_input,retrieved_contexts,response,reference,faithfulness,answer_relevancy
+Ist der Bürostuhl wasserdicht?,"[""Produkt: Ergonomischer Bürostuhl 'ComfortPro'. Features: Höhenverstellbare Armlehnen, Lendenwirbelstütze, atmungsaktives Mesh-Material, Belastbarkeit bis 120kg.""]","Nein, der Bürostuhl ist nicht wasserdicht.","Nein, er hat atmungsaktives Mesh-Material.",,
+Wie weit reicht die Nachtsicht der Kamera?,"['Produkt: Premium Kaffeevollautomat X1. Features: 15 Bar Pumpendruck, integriertes Keramikmahlwerk, 1.8L Wassertank, Milchschäumer. Garantie: 2 Jahre.']","Die Nachtsicht eines Kaffeemachines' Koffeekapasitators ist nicht direkt relevant für das Produkt X1, da es sich um einen Automaten handelt und keine Kamera enthält.",Die Nachtsicht reicht bis zu 10 Metern.,,

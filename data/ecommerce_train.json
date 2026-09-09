@@ -1,0 +1,77 @@
+[
+    {
+        "context": "Produkt: Premium Kaffeevollautomat X1. Features: 15 Bar Pumpendruck, integriertes Keramikmahlwerk, 1.8L Wassertank, Milchschäumer. Garantie: 2 Jahre.",
+        "question": "Hat die Maschine X1 einen Milchaufschäumer und wie stark ist die Pumpe?",
+        "answer": "Ja, der Premium Kaffeevollautomat X1 verfügt über einen integrierten Milchschäumer. Zudem besitzt er eine leistungsstarke Pumpe mit 15 Bar Druck."
+    },
+    {
+        "context": "Produkt: Ergonomischer Bürostuhl 'ComfortPro'. Features: Höhenverstellbare Armlehnen, Lendenwirbelstütze, atmungsaktives Mesh-Material, Belastbarkeit bis 120kg.",
+        "question": "Ist der ComfortPro Stuhl für schwere Personen geeignet und kann man die Armlehnen verstellen?",
+        "answer": "Der Ergonomische Bürostuhl 'ComfortPro' ist bis zu 120kg belastbar und verfügt über höhenverstellbare Armlehnen."
+    },
+    {
+        "context": "Produkt: Smart Home Sicherheitskamera 'NightEye'. Features: 4K Auflösung, Nachtsicht bis 10m, KI-Personenerkennung, wetterfest (IP67), Cloud-Speicher optional.",
+        "question": "Kann die NightEye Kamera auch nachts aufnehmen und ist sie wasserdicht?",
+        "answer": "Die Smart Home Kamera 'NightEye' bietet Nachtsicht bis zu 10 Metern und ist dank der Schutzklasse IP67 vollständig wetterfest und wasserdicht."
+    },
+    {
+        "context": "Produkt: Premium Kaffeevollautomat X1. Features: 15 Bar Pumpendruck, integriertes Keramikmahlwerk, 1.8L Wassertank, Milchschäumer. Garantie: 2 Jahre.",
+        "question": "Hat die Maschine X1 einen Milchaufschäumer und wie stark ist die Pumpe?",
+        "answer": "Ja, der Premium Kaffeevollautomat X1 verfügt über einen integrierten Milchschäumer. Zudem besitzt er eine leistungsstarke Pumpe mit 15 Bar Druck."
+    },
+    {
+        "context": "Produkt: Ergonomischer Bürostuhl 'ComfortPro'. Features: Höhenverstellbare Armlehnen, Lendenwirbelstütze, atmungsaktives Mesh-Material, Belastbarkeit bis 120kg.",
+        "question": "Ist der ComfortPro Stuhl für schwere Personen geeignet und kann man die Armlehnen verstellen?",
+        "answer": "Der Ergonomische Bürostuhl 'ComfortPro' ist bis zu 120kg belastbar und verfügt über höhenverstellbare Armlehnen."
+    },
+    {
+        "context": "Produkt: Smart Home Sicherheitskamera 'NightEye'. Features: 4K Auflösung, Nachtsicht bis 10m, KI-Personenerkennung, wetterfest (IP67), Cloud-Speicher optional.",
+        "question": "Kann die NightEye Kamera auch nachts aufnehmen und ist sie wasserdicht?",
+        "answer": "Die Smart Home Kamera 'NightEye' bietet Nachtsicht bis zu 10 Metern und ist dank der Schutzklasse IP67 vollständig wetterfest und wasserdicht."
+    },
+    {
+        "context": "Produkt: Premium Kaffeevollautomat X1. Features: 15 Bar Pumpendruck, integriertes Keramikmahlwerk, 1.8L Wassertank, Milchschäumer. Garantie: 2 Jahre.",
+        "question": "Hat die Maschine X1 einen Milchaufschäumer und wie stark ist die Pumpe?",
+        "answer": "Ja, der Premium Kaffeevollautomat X1 verfügt über einen integrierten Milchschäumer. Zudem besitzt er eine leistungsstarke Pumpe mit 15 Bar Druck."
+    },
+    {
+        "context": "Produkt: Ergonomischer Bürostuhl 'ComfortPro'. Features: Höhenverstellbare Armlehnen, Lendenwirbelstütze, atmungsaktives Mesh-Material, Belastbarkeit bis 120kg.",
+        "question": "Ist der ComfortPro Stuhl für schwere Personen geeignet und kann man die Armlehnen verstellen?",
+        "answer": "Der Ergonomische Bürostuhl 'ComfortPro' ist bis zu 120kg belastbar und verfügt über höhenverstellbare Armlehnen."
+    },
+    {
+        "context": "Produkt: Smart Home Sicherheitskamera 'NightEye'. Features: 4K Auflösung, Nachtsicht bis 10m, KI-Personenerkennung, wetterfest (IP67), Cloud-Speicher optional.",
+        "question": "Kann die NightEye Kamera auch nachts aufnehmen und ist sie wasserdicht?",
+        "answer": "Die Smart Home Kamera 'NightEye' bietet Nachtsicht bis zu 10 Metern und ist dank der Schutzklasse IP67 vollständig wetterfest und wasserdicht."
+    },
+    {
+        "context": "Produkt: Premium Kaffeevollautomat X1. Features: 15 Bar Pumpendruck, integriertes Keramikmahlwerk, 1.8L Wassertank, Milchschäumer. Garantie: 2 Jahre.",
+        "question": "Hat die Maschine X1 einen Milchaufschäumer und wie stark ist die Pumpe?",
+        "answer": "Ja, der Premium Kaffeevollautomat X1 verfügt über einen integrierten Milchschäumer. Zudem besitzt er eine leistungsstarke Pumpe mit 15 Bar Druck."
+    },
+    {
+        "context": "Produkt: Ergonomischer Bürostuhl 'ComfortPro'. Features: Höhenverstellbare Armlehnen, Lendenwirbelstütze, atmungsaktives Mesh-Material, Belastbarkeit bis 120kg.",
+        "question": "Ist der ComfortPro Stuhl für schwere Personen geeignet und kann man die Armlehnen verstellen?",
+        "answer": "Der Ergonomische Bürostuhl 'ComfortPro' ist bis zu 120kg belastbar und verfügt über höhenverstellbare Armlehnen."
+    },
+    {
+        "context": "Produkt: Smart Home Sicherheitskamera 'NightEye'. Features: 4K Auflösung, Nachtsicht bis 10m, KI-Personenerkennung, wetterfest (IP67), Cloud-Speicher optional.",
+        "question": "Kann die NightEye Kamera auch nachts aufnehmen und ist sie wasserdicht?",
+        "answer": "Die Smart Home Kamera 'NightEye' bietet Nachtsicht bis zu 10 Metern und ist dank der Schutzklasse IP67 vollständig wetterfest und wasserdicht."
+    },
+    {
+        "context": "Produkt: Premium Kaffeevollautomat X1. Features: 15 Bar Pumpendruck, integriertes Keramikmahlwerk, 1.8L Wassertank, Milchschäumer. Garantie: 2 Jahre.",
+        "question": "Hat die Maschine X1 einen Milchaufschäumer und wie stark ist die Pumpe?",
+        "answer": "Ja, der Premium Kaffeevollautomat X1 verfügt über einen integrierten Milchschäumer. Zudem besitzt er eine leistungsstarke Pumpe mit 15 Bar Druck."
+    },
+    {
+        "context": "Produkt: Ergonomischer Bürostuhl 'ComfortPro'. Features: Höhenverstellbare Armlehnen, Lendenwirbelstütze, atmungsaktives Mesh-Material, Belastbarkeit bis 120kg.",
+        "question": "Ist der ComfortPro Stuhl für schwere Personen geeignet und kann man die Armlehnen verstellen?",
+        "answer": "Der Ergonomische Bürostuhl 'ComfortPro' ist bis zu 120kg belastbar und verfügt über höhenverstellbare Armlehnen."
+    },
+    {
+        "context": "Produkt: Smart Home Sicherheitskamera 'NightEye'. Features: 4K Auflösung, Nachtsicht bis 10m, KI-Personenerkennung, wetterfest (IP67), Cloud-Speicher optional.",
+        "question": "Kann die NightEye Kamera auch nachts aufnehmen und ist sie wasserdicht?",
+        "answer": "Die Smart Home Kamera 'NightEye' bietet Nachtsicht bis zu 10 Metern und ist dank der Schutzklasse IP67 vollständig wetterfest und wasserdicht."
+    }
+]
