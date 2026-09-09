@@ -1,0 +1,9 @@
+
+# Colab-spezifische Dateien und Ordner
+/.config/
+/sample_data/
+/ecommerce-qwen-lora/final_model/*
+!/ecommerce-qwen-lora/final_model/README.md
+!/ecommerce-qwen-lora/final_model/adapter_config.json
+!/ecommerce-qwen-lora/final_model/tokenizer_config.json
+!/ecommerce-qwen-lora/final_model/tokenizer.json
