@@ -53,8 +53,4 @@ Die Qualität des fine-getunten RAG-Systems wird anhand folgender Metriken gemes
 * Python 3.10+
 * NVIDIA GPU (min. 16GB VRAM, z.B. T4 in Google Colab)
 
-### Setup
-```bash
-git clone https://github.com/dein-username/ecommerce-llm-rag-framework.git
-cd ecommerce-llm-rag-framework
-pip install -r requirements.txt
+
